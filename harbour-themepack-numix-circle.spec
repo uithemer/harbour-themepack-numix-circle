@@ -1,6 +1,6 @@
 Name:          harbour-themepack-numix-circle
 Version:       0.0.6
-Release:       2
+Release:       3
 Summary:       Numix Circle icon pack
 Obsoletes:     harbour-iconpack-numix-circle <= 0.0.4-3
 Conflicts:     harbour-iconpack-numix-circle
