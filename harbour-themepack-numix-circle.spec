@@ -1,6 +1,6 @@
 Name:          harbour-themepack-numix-circle
-Version:       0.0.6
-Release:       4
+Version:       0.0.7
+Release:       3
 Summary:       Numix Circle icon pack
 Obsoletes:     harbour-iconpack-numix-circle <= 0.0.4-3
 Conflicts:     harbour-iconpack-numix-circle
@@ -31,6 +31,10 @@ fi
 fi
 
 %changelog
+* Tue Jan 19 2016 0.0.7
+- Added icons.
+- Added DynClock hires support.
+
 * Tue Jan 12 2016 0.0.6
 - Added different resolutions.
 
