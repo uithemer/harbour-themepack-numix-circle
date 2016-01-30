@@ -1,14 +1,14 @@
 Name:          harbour-themepack-numix-circle
 Version:       0.0.7
-Release:       4
+Release:       5
 Summary:       Numix Circle icon pack
 Obsoletes:     harbour-iconpack-numix-circle <= 0.0.4-3
 Conflicts:     harbour-iconpack-numix-circle
 Group:         System/Tools
 Vendor:        fravaccaro
 Distribution:  SailfishOS
-Requires: harbour-themepacksupport >= 0.0.8-1
-Packager: fravaccaro <fravaccaro@jollacommunity.it>
+Requires:      sailfish-version >= 2.0.1, harbour-themepacksupport >= 0.0.8-1
+Packager:      fravaccaro <fravaccaro@jollacommunity.it>
 URL:           www.jollacommunity.it
 License:       GPL
 
