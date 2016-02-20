@@ -31,6 +31,9 @@ fi
 fi
 
 %changelog
+* Sat Feb 20 2016 0.0.8
+- Added icons.
+
 * Tue Jan 19 2016 0.0.7
 - Added icons.
 - Added DynClock hires support.
