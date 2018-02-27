@@ -23,7 +23,7 @@ Source0:        %{name}-%{version}.tar.bz2
 Source100:      harbour-themepack-numix-circle.yaml
 Obsoletes:      harbour-iconpack-numix-circle <= 0.0.4-3
 Conflicts:      harbour-iconpack-numix-circle
-Requires:       sailfish-version >= 2.1.0
+Requires:       sailfish-version >= 2.1.0, harbour-themepacksupport >= 0.0.8-1
 BuildRequires:  pkgconfig(sailfishapp) >= 1.0.2
 BuildRequires:  pkgconfig(Qt5Core)
 BuildRequires:  pkgconfig(Qt5Qml)
