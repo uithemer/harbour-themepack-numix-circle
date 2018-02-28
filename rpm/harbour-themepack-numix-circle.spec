@@ -14,7 +14,7 @@ Name:       harbour-themepack-numix-circle
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:        Numix Circle icon pack
 Version:        0.3.1
-Release:        2
+Release:        5
 Group:          Qt/Qt
 License:        GPLv3
 Packager:       fravaccaro <fravaccaro@jollacommunity.it>
@@ -70,7 +70,7 @@ desktop-file-install --delete-original       \
    %{buildroot}%{_datadir}/applications/*.desktop
 
 %files
-%defattr(4755,root,root,-)
+%defattr(-,root,root,-)
 %{_bindir}
 %{_datadir}/%{name}
 %{_datadir}/applications/%{name}.desktop
@@ -79,6 +79,7 @@ desktop-file-install --delete-original       \
 # << files
 
 %post
+chmod +x /usr/share/%{name}/fetchicons.sh
 if [ "$1" = "1" ]; then
     // First installation
 
