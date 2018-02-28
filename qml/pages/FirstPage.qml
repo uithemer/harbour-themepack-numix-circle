@@ -128,7 +128,6 @@ Page
 
               AboutLanguage { text: "Deutsch" }
               AboutTranslator { text: "Sailfishman" }
-              AboutTranslator { text: "mosen" }
               Item { width: parent.width; height: Theme.paddingLarge }
 
               AboutLanguage { text: "Italiano" }
