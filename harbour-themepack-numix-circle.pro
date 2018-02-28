@@ -24,6 +24,8 @@ SOURCES += \
 
 OTHER_FILES += qml/harbour-themepack-numix-circle.qml \
     qml/cover/CoverPage.qml \
+    qml/components/AboutLanguage.qml \
+    qml/components/AboutTranslator.qml \
     rpm/harbour-themepack-numix-circle.changes.in \
     rpm/harbour-themepack-numix-circle.spec \
     rpm/harbour-themepack-numix-circle.yaml \

@@ -16,7 +16,7 @@ Documentation on how to create theme packs available [here](https://fravaccaro.g
 
 Languages supported:
 
-[![Languages supported](https://www.transifex.com/_/charts/redirects/fravaccaro/numix-circle/image_png/harbour-themepack-numix-circlets)](https://www.transifex.com/fravaccaro/ui-themer/dashboard/)
+[![Languages supported](https://www.transifex.com/_/charts/redirects/fravaccaro/numix-circle/image_png/harbour-themepack-numix-circlets)](https://www.transifex.com/fravaccaro/numix-circle/dashboard/)
 
 Request a new language or contribute to existing languages on the [Transifex project page](https://www.transifex.com/fravaccaro/numix-circle/dashboard/).
 

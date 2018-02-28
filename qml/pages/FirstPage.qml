@@ -1,6 +1,7 @@
 import QtQuick 2.0
 import Sailfish.Silica 1.0
 import uithemer.themescripts 1.0
+import "../components"
 
 Page
 {
@@ -123,7 +124,32 @@ Page
                   onClicked: Qt.openUrlExternally("https://www.paypal.me/fravaccaro")
               }
 
-              SectionHeader { text: qsTr("Translations"); visible: false }
+              SectionHeader { text: qsTr("Translations") }
+
+              AboutLanguage { text: "Deutsch" }
+              AboutTranslator { text: "Sailfishman" }
+              AboutTranslator { text: "mosen" }
+              Item { width: parent.width; height: Theme.paddingLarge }
+
+              AboutLanguage { text: "Italiano" }
+              AboutTranslator { text: "Francesco Vaccaro" }
+              Item { width: parent.width; height: Theme.paddingLarge }
+
+              Label {
+                  x: Theme.paddingLarge
+                  width: parent.width - (x * 2)
+                  wrapMode: Text.Wrap
+                  textFormat: Text.RichText
+                  text: qsTr("Request a new language or contribute to existing languages on the Transifex project page.")
+                  onLinkActivated: Qt.openUrlExternally(link)
+              }
+
+              Button {
+                  anchors.horizontalCenter: parent.horizontalCenter
+                  text: qsTr("Transifex")
+                  onClicked: Qt.openUrlExternally("https://www.transifex.com/fravaccaro/numix-circle")
+              }
+
         }
 
         VerticalScrollDecorator { }
