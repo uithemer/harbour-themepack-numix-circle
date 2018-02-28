@@ -34,7 +34,7 @@ Page
             width: parent.width
             spacing: Theme.paddingMedium
 
-           PageHeader { title: qsTr("Numix CIrcle") }
+           PageHeader { title: qsTr("Numix Circle") }
 
             Item {
                 height: appicon.height + Theme.paddingMedium

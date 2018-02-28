@@ -56,10 +56,6 @@
         <translation>Spenden</translation>
     </message>
     <message>
-        <source>Numix CIrcle</source>
-        <translation>Numix Circle</translation>
-    </message>
-    <message>
         <source>Translations</source>
         <translation>Übersetzung</translation>
     </message>
@@ -69,6 +65,10 @@
     </message>
     <message>
         <source>Transifex</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numix Circle</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
