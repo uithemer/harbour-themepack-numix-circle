@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="it_IT">
+<TS version="2.1" language="it_IT">
 <context>
     <name>FirstPage</name>
     <message>
@@ -70,6 +70,10 @@
     <message>
         <source>Numix Circle</source>
         <translation>Numix Circle</translation>
+    </message>
+    <message>
+        <source>By requesting new icons, you accept sending the name of the unthemed apps installed on your device, along with your e-mail address. This data will be used by me only for the intended purpose and NEVER disclosed to thirdy parties. Your app names and e-mail address will be deleted right after.</source>
+        <translation>Richiedendo nuove icone, accetti l&apos;invio del nome delle app senza icona installate sul tuo dispositivo, insieme al tuo indirizzo e-mail. Questi dati verranno utilizzati da me solo per lo scopo previsto e MAI divulgati a terze parti. I nomi delle app e l&apos;indirizzo e-mail verranno cancellati subito dopo.</translation>
     </message>
 </context>
 </TS>

@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="hu_HU">
 <context>
     <name>FirstPage</name>
     <message>
         <source>Thank you for installing Numix Circle!</source>
-        <translation type="unfinished"></translation>
+        <translation>Köszönöm, hogy telepítetted a Numix Circle-t!</translation>
     </message>
     <message>
         <source>Released under the GNU GPLv3 license. Based on &lt;a href=&apos;https://github.com/numixproject/numix-icon-theme-circle&apos;&gt;Numix Circle by Numix Project&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az alkalmazás a GNU GPLv3 licenc alatt jelent meg. A &lt;a href=&apos;https://github.com/numixproject/numix-icon-theme-circle&apos;&gt;Numix Project Numix Circle&lt;/a&gt;-re alapozva.</translation>
     </message>
     <message>
         <source>Sources</source>
-        <translation type="unfinished"></translation>
+        <translation>Források</translation>
     </message>
     <message>
         <source>Icon request</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikon kérés</translation>
     </message>
     <message>
         <source>From here you can request missing icons for your favorite apps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Innen kérheted a kedvenc alkalmazásaid hiányzó ikonjait.</translation>
     </message>
     <message>
         <source>This will open your e-mail client, from which you can send me the name of the apps you would like to be included in this theme.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez megnyitja az e-mail kliensedet, ahonnan elküldheted nekem azon alkalmazások neveit, amelyeket szeretnéd, ha bekerülnének ebbe a témába.</translation>
     </message>
     <message>
         <source>Request icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikonok kérése</translation>
     </message>
     <message>
         <source>Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejlesztők</translation>
     </message>
     <message>
         <source>If you want to create a theme compatible with UI Themer, please read the documentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha az UI Themer-rel kompatibilis témát szeretnél létrehozni, kérlek olvasd el a dokumentációt.</translation>
     </message>
     <message>
         <source>Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentáció</translation>
     </message>
     <message>
         <source>Support</source>
-        <translation type="unfinished"></translation>
+        <translation>Támogatás</translation>
     </message>
     <message>
         <source>If you like my work and want to buy me a beer, feel free to do it!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha tetszik a munkám, és vennél nekem egy sört, ne habozz!</translation>
     </message>
     <message>
         <source>Donate</source>
-        <translation type="unfinished"></translation>
+        <translation>Adományozz</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Fordítások</translation>
     </message>
     <message>
         <source>Request a new language or contribute to existing languages on the Transifex project page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kérj új nyelvet, vagy segíts a már jelenlévő nyelvekre fordításban a Transifex projektoldalon.</translation>
     </message>
     <message>
         <source>Transifex</source>
-        <translation type="unfinished"></translation>
+        <translation>Transifex</translation>
     </message>
     <message>
         <source>Numix Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Numix Circle</translation>
     </message>
     <message>
         <source>By requesting new icons, you accept sending the name of the unthemed apps installed on your device, along with your e-mail address. This data will be used by me only for the intended purpose and NEVER disclosed to thirdy parties. Your app names and e-mail address will be deleted right after.</source>

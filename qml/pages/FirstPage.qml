@@ -84,6 +84,15 @@ Page
                 onLinkActivated: Qt.openUrlExternally(link)
              }
 
+            Label {
+                x: Theme.paddingLarge
+                width: parent.width - (x * 2)
+                wrapMode: Text.Wrap
+                textFormat: Text.RichText
+                text: qsTr("By requesting new icons, you accept sending the name of the unthemed apps installed on your device, along with your e-mail address. This data will be used by me only for the intended purpose and NEVER disclosed to thirdy parties. Your app names and e-mail address will be deleted right after.")
+                onLinkActivated: Qt.openUrlExternally(link)
+             }
+
             Button {
                 anchors.horizontalCenter: parent.horizontalCenter
                 text: qsTr("Request icons")
@@ -132,6 +141,14 @@ Page
 
               AboutLanguage { text: "Italiano" }
               AboutTranslator { text: "Francesco Vaccaro" }
+              Item { width: parent.width; height: Theme.paddingLarge }
+
+              AboutLanguage { text: "Magyar" }
+              AboutTranslator { text: "Szabó G." }
+              Item { width: parent.width; height: Theme.paddingLarge }
+
+              AboutLanguage { text: "Nederlands" }
+              AboutTranslator { text: "Nathan Follens" }
               Item { width: parent.width; height: Theme.paddingLarge }
 
               Label {
