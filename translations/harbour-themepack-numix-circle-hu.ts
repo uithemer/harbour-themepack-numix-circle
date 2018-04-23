@@ -75,5 +75,9 @@
         <source>By requesting new icons, you accept sending the name of the unthemed apps installed on your device, along with your e-mail address. This data will be used by me only for the intended purpose and NEVER disclosed to thirdy parties. Your app names and e-mail address will be deleted right after.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>If you plan to request icons, please consider to donate! It helps me staying motivated and maintaining the project.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

@@ -73,6 +73,10 @@
     </message>
     <message>
         <source>By requesting new icons, you accept sending the name of the unthemed apps installed on your device, along with your e-mail address. This data will be used by me only for the intended purpose and NEVER disclosed to thirdy parties. Your app names and e-mail address will be deleted right after.</source>
+        <translation>Door nieuwe pictogrammen aan te vragen, ga je akkoord dat de namen van de betreffende apps geïnstalleerd op je apparaat samen met je e-mailadres verzonden worden. Deze gegevens zullen enkel door mijzelf voor het eigenlijke doel gebruikt worden, en worden NOOIT aan derde partijen doorgespeeld. De namen van je apps en je e-mailadres zullen onmiddellijk nadien verwijderd worden.</translation>
+    </message>
+    <message>
+        <source>If you plan to request icons, please consider to donate! It helps me staying motivated and maintaining the project.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -93,6 +93,15 @@ Page
                 onLinkActivated: Qt.openUrlExternally(link)
              }
 
+            Label {
+                x: Theme.paddingLarge
+                width: parent.width - (x * 2)
+                wrapMode: Text.Wrap
+                textFormat: Text.RichText
+                text: qsTr("If you plan to request icons, please consider to donate! It helps me staying motivated and maintaining the project.")
+                onLinkActivated: Qt.openUrlExternally(link)
+             }
+
             Button {
                 anchors.horizontalCenter: parent.horizontalCenter
                 text: qsTr("Request icons")
@@ -148,6 +157,10 @@ Page
               Item { width: parent.width; height: Theme.paddingLarge }
 
               AboutLanguage { text: "Nederlands" }
+              AboutTranslator { text: "Nathan Follens" }
+              Item { width: parent.width; height: Theme.paddingLarge }
+
+              AboutLanguage { text: "Neerlandais (Belgique)" }
               AboutTranslator { text: "Nathan Follens" }
               Item { width: parent.width; height: Theme.paddingLarge }
 
