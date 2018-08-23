@@ -61,23 +61,23 @@
     </message>
     <message>
         <source>Request a new language or contribute to existing languages on the Transifex project page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf der Transifex Projekt Seite kannst du bei der Übersetzung mithelfen oder weitere Sprachen wünschen. </translation>
     </message>
     <message>
         <source>Transifex</source>
-        <translation type="unfinished"></translation>
+        <translation>Transifex</translation>
     </message>
     <message>
         <source>Numix Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Numix Circle</translation>
     </message>
     <message>
         <source>By requesting new icons, you accept sending the name of the unthemed apps installed on your device, along with your e-mail address. This data will be used by me only for the intended purpose and NEVER disclosed to thirdy parties. Your app names and e-mail address will be deleted right after.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn du ein Icon anforderst, erhalte ich den App-Namen und deine E-Mail Adresse. Diese Daten benötige ich, um deine Icon-Wünsche zu berücksichtigen. Der App-Name und deine E-Mail Adresse werden NICHT an Drittanbieter weitergegeben und nach der Bearbeitung gelöscht. </translation>
     </message>
     <message>
         <source>If you plan to request icons, please consider to donate! It helps me staying motivated and maintaining the project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denk bitte daran, bei Icon-Wünschen oder auch nur als Dank mir einen kleinen Betrag zu spenden. Nur so kann ich weiterhin voll motiviert hinter diesem Projekt stehen. </translation>
     </message>
 </context>
 </TS>

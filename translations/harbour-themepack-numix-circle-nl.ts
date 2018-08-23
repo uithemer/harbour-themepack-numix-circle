@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>If you plan to request icons, please consider to donate! It helps me staying motivated and maintaining the project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Als je pictogrammen wil aanvragen, overweeg dan een donatie! Zo help je me gemotiveerd te blijven en het project te blijven ondersteunen.</translation>
     </message>
 </context>
 </TS>
