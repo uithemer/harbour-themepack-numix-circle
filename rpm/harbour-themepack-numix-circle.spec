@@ -13,7 +13,7 @@ Name:       harbour-themepack-numix-circle
 %{!?qtc_make:%define qtc_make make}
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:        Numix Circle icon pack
-Version:        0.3.4
+Version:        0.3.5
 Release:        1
 Group:          Qt/Qt
 License:        GPLv3
@@ -86,6 +86,9 @@ if [ "$1" = "1" ]; then
 fi
 
 %changelog
+* Wed Oct 3 2018 0.3.5
+- Icons added.
+
 * Fri Aug 24 2018 0.3.4
 - Icons added.
 - Translations updated.
