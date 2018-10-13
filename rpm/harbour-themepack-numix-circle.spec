@@ -12,9 +12,9 @@ Name:       harbour-themepack-numix-circle
 %{!?qtc_qmake5:%define qtc_qmake5 %qmake5}
 %{!?qtc_make:%define qtc_make make}
 %{?qtc_builddir:%define _builddir %qtc_builddir}
-Summary:        Numix Circle icon pack
+Summary:        Numix Circle theme pack
 Version:        0.3.5
-Release:        1
+Release:        2
 Group:          Qt/Qt
 License:        GPLv3
 Packager:       fravaccaro <fravaccaro@jollacommunity.it>
@@ -31,7 +31,7 @@ BuildRequires:  pkgconfig(Qt5Quick)
 BuildRequires:  desktop-file-utils
 
 %description
-Numix Circle icon pack for Sailfish OS.
+Numix Circle theme pack for Sailfish OS.
 
 
 %prep
@@ -42,7 +42,7 @@ Numix Circle icon pack for Sailfish OS.
 
 %preun
 if [ "$1" = "0" ]; then
-    rm -rf /home/nemo/.local/share/harbour-themepack-numix-circle
+    rm -rf /home/nemo/.local/share/%{name}
 fi
 
 %build
