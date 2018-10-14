@@ -57,6 +57,7 @@ Page
                 wrapMode: Text.Wrap
                 textFormat: Text.RichText
                 text: qsTr("Released under the GNU GPLv3 license. Based on <a href='https://github.com/numixproject/numix-icon-theme-circle'>Numix Circle by Numix Project</a>.")
+                  onLinkActivated: Qt.openUrlExternally(link)
             }
 
             Button {
