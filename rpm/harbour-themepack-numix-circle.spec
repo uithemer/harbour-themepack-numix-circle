@@ -12,15 +12,16 @@ Name:       harbour-themepack-numix-circle
 %{!?qtc_qmake5:%define qtc_qmake5 %qmake5}
 %{!?qtc_make:%define qtc_make make}
 %{?qtc_builddir:%define _builddir %qtc_builddir}
-Summary:    Numix Circle theme pack
-Version:    0.3.6
-Release:    2
-Group:      Qt/Qt
-License:    LICENSE
-URL:        http://example.org/
-Source0:    %{name}-%{version}.tar.bz2
-Source100:  harbour-themepack-numix-circle.yaml
-Requires:   sailfishsilica-qt5 >= 0.10.9
+Summary:        Numix Circle theme pack
+Version:        0.3.6
+Release:        2
+Group:          Qt/Qt
+License:        GPLv3
+Packager:       fravaccaro <fravaccaro@jollacommunity.it>
+URL:            https://github.com/fravaccaro/harbour-themepack-numix-circle
+Source0:        %{name}-%{version}.tar.bz2
+Source100:      harbour-themepack-numix-circle.yaml
+Requires:       sailfishsilica-qt5 >= 0.10.9
 BuildRequires:  pkgconfig(sailfishapp) >= 1.0.2
 BuildRequires:  pkgconfig(Qt5Core)
 BuildRequires:  pkgconfig(Qt5Qml)
@@ -28,7 +29,7 @@ BuildRequires:  pkgconfig(Qt5Quick)
 BuildRequires:  desktop-file-utils
 
 %description
-Short description of my SailfishOS Application
+Numix Circle theme pack for Sailfish OS.
 
 
 %prep
