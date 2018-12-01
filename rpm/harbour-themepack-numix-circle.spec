@@ -14,7 +14,7 @@ Name:       harbour-themepack-numix-circle
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:        Numix Circle theme pack
 Version:        0.4.0
-Release:        1
+Release:        3
 Group:          Qt/Qt
 License:        GPLv3
 Packager:       fravaccaro <fravaccaro@jollacommunity.it>
@@ -78,98 +78,3 @@ desktop-file-install --delete-original       \
 
 %post
 chmod +x /usr/share/%{name}/fetchicons.sh
-
-%changelog
-* Sat Nov 24 2018 0.4.0
-- Overlay support.
-
-* Sun Oct 14 2018 0.3.6
-- Icons added.
-
-* Wed Oct 3 2018 0.3.5
-- Icons added.
-
-* Fri Aug 24 2018 0.3.4
-- Icons added.
-- Translations updated.
-
-* Mon Apr 23 2018 0.3.3
-- Icons added.
-- Translations updated.
-
-* Thu Mar 22 2018 0.3.2
-- Icons added.
-- Translations updated.
-
-* Wed Feb 28 2018 0.3.1
-- Cover image updated.
-- Translations updated.
-
-* Tue Feb 27 2018 0.3.0
-- Companion app added.
-
-* Fri Feb 23 2018 0.2.2
-- Icons added.
-
-* Tue Nov 28 2017 0.2.1
-- Icons added.
-
-* Sun Oct 22 2017 0.2.0
-- Icons added.
-
-* Tue Jul 18 2017 0.1.9
-- Icons added.
-
-* Tue Jul 4 2017 0.1.8
-- Icons added.
-
-* Fri May 26 2017 0.1.7
-- Icons added.
-
-* Mon Apr 17 2017 0.1.6
-- Icons added.
-
-* Sat Apr 15 2017 0.1.5
-- Icons added.
-
-* Fri Mar 31 2017 0.1.4
-- Icons added.
-
-* Thu Jan 5 2017 0.1.3
-- Icons added.
-
-* Wed Jun 8 2016 0.1.2
-- Added icons.
-- Added folder icons.
-
-* Sat May 28 2016 0.1.1
-- Added icons.
-
-* Wed May 4 2016 0.1.0
-- Added icons.
-- Rebuilt against Inkscape.
-
-* Wed Apr 27 2016 0.0.9
-- Added icons.
-
-* Sat Feb 20 2016 0.0.8
-- Added icons.
-
-* Tue Jan 19 2016 0.0.7
-- Added icons.
-- Added DynClock hires support.
-
-* Tue Jan 12 2016 0.0.6
-- Added different resolutions.
-
-* Tue Jan 05 2016 0.0.5
-- Themepacksupport compliant.
-
-* Mon Dec 28 2015 0.0.3
-- Added icons.
-
-* Mon Dec 28 2015 0.0.3
-- Bug fix.
-
-* Sun Dec 27 2015 0.0.1
-- First build.
