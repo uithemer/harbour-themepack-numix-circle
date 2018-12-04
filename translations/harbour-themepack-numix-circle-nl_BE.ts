@@ -21,11 +21,11 @@
     </message>
     <message>
         <source>From here you can request missing icons for your favorite apps.</source>
-        <translation>Van hieruit kund ge ontbrekende pictogrammen voor uw favoriete toepassingen aanvragen.</translation>
+        <translation>Van hieruit kunt ge ontbrekende pictogrammen voor uw favoriete toepassingen aanvragen.</translation>
     </message>
     <message>
         <source>This will open your e-mail client, from which you can send me the name of the apps you would like to be included in this theme.</source>
-        <translation>Dit zal uwen e-mailcliënt openen, vanwaar dat ge mij de namen van de toepassingen kund melden die ge in dit thema zoud willen zien.</translation>
+        <translation>Dit gaat uwen e-mailcliënt openen, vanwaar dat ge mij de namen van de toepassingen kunt melden die ge in dit thema zoudt willen zien.</translation>
     </message>
     <message>
         <source>Request icons</source>
@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>If you want to create a theme compatible with UI Themer, please read the documentation.</source>
-        <translation>Als ge een thema wild maken compatibel met UI Themer, leesd dan de documentatie.</translation>
+        <translation>Als ge een thema wilt maken compatibel met UI Themer, leest dan de documentatie.</translation>
     </message>
     <message>
         <source>Documentation</source>
@@ -49,7 +49,7 @@
     </message>
     <message>
         <source>If you like my work and want to buy me a beer, feel free to do it!</source>
-        <translation>Als ge mijn werk goed vind en mij op een pintje wild trakteren, voeld u vrij!</translation>
+        <translation>Als ge mijn werk goed vindt en mij op een pintje wilt trakteren, voelt u vrij!</translation>
     </message>
     <message>
         <source>Donate</source>
@@ -61,7 +61,7 @@
     </message>
     <message>
         <source>Request a new language or contribute to existing languages on the Transifex project page.</source>
-        <translation>Vraagd een nieuwe taal aan of draagd bij aan bestaande vertalingen op de Transifex-projectpagina.</translation>
+        <translation>Vraagt een nieuwe taal aan of draagt bij aan bestaande vertalingen op de Transifex-projectpagina.</translation>
     </message>
     <message>
         <source>Transifex</source>
@@ -73,11 +73,11 @@
     </message>
     <message>
         <source>By requesting new icons, you accept sending the name of the unthemed apps installed on your device, along with your e-mail address. This data will be used by me only for the intended purpose and NEVER disclosed to thirdy parties. Your app names and e-mail address will be deleted right after.</source>
-        <translation>Door nieuwe pictogrammen aan te vragen, ga’ ge akkoord dat de namen van de betreffende toepassingen geïnstalleerd op uw apparaat samen met uw e-mailadres worden verzonden. Deze gegevens zullen enkel door mijzelf voor het eigenlijke doel worden gebruikt, en worden NOOIT aan derde partijen doorgespeeld. De namen van uw apps en uw e-mailadres zullen onmiddellijk daarachter worden verwijderd.</translation>
+        <translation>Door nieuwe pictogrammen aan te vragen, gaat ge akkoord dat de namen van de betreffende toepassingen geïnstalleerd op uw apparaat samen met uw e-mailadres worden verzonden. Deze gegevens zullen enkel door mijzelf voor het eigenlijke doel gebruikt worden, en worden NOOIT aan derde partijen doorgespeeld. De namen van uw apps en uw e-mailadres gaan onmiddellijk daarachter verwijderd worden.</translation>
     </message>
     <message>
         <source>If you plan to request icons, please consider to donate! It helps me staying motivated and maintaining the project.</source>
-        <translation>Als ge pictogrammen wild aanvragen, overweegd dan een donatie! Op die manier helpt ge mij gemotiveerd te blijven en het project te blijven ondersteunen.</translation>
+        <translation>Als ge pictogrammen wilt aanvragen, overweegt dan een donatie! Op die manier helpt ge mij gemotiveerd te blijven en het project te blijven ondersteunen.</translation>
     </message>
 </context>
 </TS>
