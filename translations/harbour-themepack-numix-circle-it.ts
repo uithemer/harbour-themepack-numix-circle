@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="it_IT">
+<TS version="2.0" language="it_IT">
 <context>
     <name>FirstPage</name>
     <message>
@@ -78,6 +78,14 @@
     <message>
         <source>If you plan to request icons, please consider to donate! It helps me staying motivated and maintaining the project.</source>
         <translation>Se hai intenzione di richiedere icone, considera una donazione! Mi aiuta a rimanere motivato e a mantenere il progetto.</translation>
+    </message>
+    <message>
+        <source>Credits</source>
+        <translation>Crediti</translation>
+    </message>
+    <message>
+        <source>Keyboard navigation based on the one on &lt;a href=&apos;https://github.com/Wunderfitz/harbour-piepmatz&apos;&gt;Piepmatz&lt;/a&gt; by Sebastian Wolf.</source>
+        <translation>Navigazione via tastiera basata su quella in &lt;a href=&apos;https://github.com/Wunderfitz/harbour-piepmatz&apos;&gt;Piepmatz&lt;/a&gt; di Sebastian Wolf.</translation>
     </message>
 </context>
 </TS>

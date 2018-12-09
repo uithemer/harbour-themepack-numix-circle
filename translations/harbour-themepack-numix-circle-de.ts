@@ -79,5 +79,13 @@
         <source>If you plan to request icons, please consider to donate! It helps me staying motivated and maintaining the project.</source>
         <translation>Denk bitte daran, bei Icon-Wünschen oder auch nur als Dank mir einen kleinen Betrag zu spenden. Nur so kann ich weiterhin voll motiviert hinter diesem Projekt stehen. </translation>
     </message>
+    <message>
+        <source>Credits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keyboard navigation based on the one on &lt;a href=&apos;https://github.com/Wunderfitz/harbour-piepmatz&apos;&gt;Piepmatz&lt;/a&gt; by Sebastian Wolf.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

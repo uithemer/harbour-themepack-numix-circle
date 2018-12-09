@@ -1,83 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="zh_CN">
 <context>
     <name>FirstPage</name>
     <message>
         <source>Thank you for installing Numix Circle!</source>
-        <translation type="unfinished"></translation>
+        <translation>感谢您安装Numix Circle!</translation>
     </message>
     <message>
         <source>Released under the GNU GPLv3 license. Based on &lt;a href=&apos;https://github.com/numixproject/numix-icon-theme-circle&apos;&gt;Numix Circle by Numix Project&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>根据GNU GPLv3许可证发布。基于&lt;a href=&apos;https://github.com/numixproject/numix-icon-theme-circle&apos;&gt;Numix Circle by Numix Project&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Sources</source>
-        <translation type="unfinished"></translation>
+        <translation>源</translation>
     </message>
     <message>
         <source>Icon request</source>
-        <translation type="unfinished"></translation>
+        <translation>图标请求</translation>
     </message>
     <message>
         <source>From here you can request missing icons for your favorite apps.</source>
-        <translation type="unfinished"></translation>
+        <translation>你可以在此处为你喜爱的软件请求适配图标。</translation>
     </message>
     <message>
         <source>This will open your e-mail client, from which you can send me the name of the apps you would like to be included in this theme.</source>
-        <translation type="unfinished"></translation>
+        <translation>这将打开您的电子邮件客户端，您可以向我发送您希望包含在这个主题中的应用程序的名称。</translation>
     </message>
     <message>
         <source>Request icons</source>
-        <translation type="unfinished"></translation>
+        <translation>请求图标</translation>
     </message>
     <message>
         <source>Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>开发人员</translation>
     </message>
     <message>
         <source>If you want to create a theme compatible with UI Themer, please read the documentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您想创建与UI Themer兼容的主题，请阅读参考资料。</translation>
     </message>
     <message>
         <source>Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>参考文件</translation>
     </message>
     <message>
         <source>Support</source>
-        <translation type="unfinished"></translation>
+        <translation>支持</translation>
     </message>
     <message>
         <source>If you like my work and want to buy me a beer, feel free to do it!</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你喜欢我的工作，不妨考虑请我喝瓶啤酒！</translation>
     </message>
     <message>
         <source>Donate</source>
-        <translation type="unfinished"></translation>
+        <translation>捐赠</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>翻译</translation>
     </message>
     <message>
         <source>Request a new language or contribute to existing languages on the Transifex project page.</source>
-        <translation type="unfinished"></translation>
+        <translation>在Transifex项目页面上请求一种新语言或对现有语言作出贡献。</translation>
     </message>
     <message>
         <source>Transifex</source>
-        <translation type="unfinished"></translation>
+        <translation>Transifex</translation>
     </message>
     <message>
         <source>Numix Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Numix Circle</translation>
     </message>
     <message>
         <source>By requesting new icons, you accept sending the name of the unthemed apps installed on your device, along with your e-mail address. This data will be used by me only for the intended purpose and NEVER disclosed to thirdy parties. Your app names and e-mail address will be deleted right after.</source>
-        <translation type="unfinished"></translation>
+        <translation>为了请求新的图标，你需要同意将设备中安装的应用的名称连同你的邮箱地址发送给我。数据仅会被用于预期的目的，绝不会泄露给任何第三方。你发送的软件名称和邮箱地址之后将被立刻删除。</translation>
     </message>
     <message>
         <source>If you plan to request icons, please consider to donate! It helps me staying motivated and maintaining the project.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您计划申请图标，不妨考虑捐赠!它帮助我保持动力和维护项目。</translation>
     </message>
     <message>
         <source>Credits</source>
