@@ -14,7 +14,7 @@ Name:       harbour-themepack-numix-circle
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:        Numix Circle theme pack
 Version:        0.4.2
-Release:        4
+Release:        5
 Group:          Qt/Qt
 License:        GPLv3
 Packager:       fravaccaro <fravaccaro@jollacommunity.it>
