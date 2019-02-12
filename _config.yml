@@ -1,1 +1,11 @@
-theme: jekyll-theme-leap-day
+remote_theme: pmarsceill/just-the-docs
+title: Numix Circle for Sailfish OS
+description: Numix Circle for Sailfish OS
+baseurl: ""
+exclude: ["appicons/", "other/", "qml/", "rpm/", "scripts/", "src/", "theme/", "translations/", "LICENSE", "*.desktop", "*.pro"]
+
+url: "https://fravaccaro.github.io/harbour-themepack-numix-circle"
+search_enabled: false
+aux_links:
+    "Numix Circle on GitHub":
+      - "//github.com/fravaccaro/harbour-themepack-numix-circle"
