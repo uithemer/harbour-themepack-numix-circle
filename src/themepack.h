@@ -15,7 +15,7 @@ class ThemePack : public QObject
         void fetchIcons() const;
 
     signals:
-        void iconsFetched();
+        void iconsFetched() const;
 };
 
 #endif // THEMEPACK_H
