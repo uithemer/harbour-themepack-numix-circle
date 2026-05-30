@@ -1,11 +1,32 @@
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.10.2
+
 title: Numix Circle for Sailfish OS
 description: Numix Circle for Sailfish OS
-baseurl: ""
-exclude: ["appicons/", "other/", "qml/", "rpm/", "scripts/", "src/", "theme/", "translations/", "LICENSE", "*.desktop", "*.pro"]
 
-url: "https://uithemer.github.io/harbour-themepack-numix-circle"
+url: "https://uithemer.github.io"
+baseurl: "/harbour-themepack-numix-circle"
+repository: uithemer/harbour-themepack-numix-circle
+
 search_enabled: false
+
 aux_links:
-    "Numix Circle on GitHub":
-      - "//github.com/uithemer/harbour-themepack-numix-circle"
+  "Numix Circle on GitHub":
+    - "https://github.com/uithemer/harbour-themepack-numix-circle"
+
+exclude:
+  - appicons/
+  - other/
+  - qml/
+  - rpm/
+  - src/
+  - theme/
+  - translations/
+  - .sfdk/
+  - RPMS/
+  - LICENSE
+  - "*.desktop"
+  - "*.pro"
+  - "*.pro.user"
+  - .gitignore
+  - .jekyll-cache/
+  - vendor/
