@@ -133,10 +133,10 @@
        xlink:href="#1"
        id="2"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.175,0,0,0.175,302.79999,215.99997)"
-       y1="280"
+       gradientTransform="matrix(1,0,0,1,302.79999,215.99997)"
+       y1="49"
        x2="0"
-       y2="40" />
+       y2="7" />
     <clipPath
        id="clipPath25">
       <rect
@@ -153,10 +153,10 @@
        xlink:href="#1"
        id="3"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.0875,0,0,0.0875,430.9,81.499996)"
-       y1="291.43"
+       gradientTransform="matrix(1,0,0,1,430.9,81.499996)"
+       y1="25.500125"
        x2="0"
-       y2="40" />
+       y2="3.5" />
     <clipPath
        id="clipPath30">
       <rect
@@ -173,10 +173,10 @@
        xlink:href="#1"
        id="4"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.11931818,0,0,0.11931818,430.13636,32.227267)"
-       y1="291.43"
+       gradientTransform="matrix(1,0,0,1,430.13636,32.227267)"
+       y1="34.772897"
        x2="0"
-       y2="40" />
+       y2="4.772727" />
     <clipPath
        id="clipPath35">
       <rect
@@ -194,10 +194,10 @@
        xlink:href="#1"
        id="5"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.06666667,0,0,0.06666667,302.4,209.33333)"
-       y1="280"
+       gradientTransform="matrix(1,0,0,1,302.4,209.33333)"
+       y1="18.666668"
        x2="0"
-       y2="40" />
+       y2="2.666667" />
     <clipPath
        id="clipPath40">
       <rect
@@ -272,10 +272,10 @@
        xlink:href="#1"
        id="9"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.0875,0,0,0.0875,414.9,97.5)"
-       y1="302.86"
+       gradientTransform="matrix(1,0,0,1,414.9,97.5)"
+       y1="26.50025"
        x2="0"
-       y2="28.571" />
+       y2="2.499963" />
     <clipPath
        id="clipPath60">
       <rect
@@ -292,10 +292,10 @@
        xlink:href="#1"
        id="A"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.11931818,0,0,0.11931818,414.13636,48.22727)"
-       y1="299.81"
+       gradientTransform="matrix(1,0,0,1,414.13636,48.22727)"
+       y1="35.772784"
        x2="0"
-       y2="31.619" />
+       y2="3.772722" />
     <use
        id="B"
        opacity="0.2"
@@ -654,11 +654,11 @@
     <linearGradient
        gradientUnits="userSpaceOnUse"
        x2="0"
-       y2="40"
-       y1="280"
+       y2="7"
+       y1="49"
        xlink:href="#Q"
        id="P"
-       gradientTransform="matrix(.175 0 0 .175 302.79999 215.99997)" />
+       gradientTransform="matrix(1,0,0,1,302.79999,215.99997)" />
     <linearGradient
        id="Q">
       <stop
@@ -672,19 +672,19 @@
     <linearGradient
        gradientUnits="userSpaceOnUse"
        x2="0"
-       y2="90"
-       y1="230"
+       y2="33.75"
+       y1="86.25"
        xlink:href="#Q"
        id="R"
-       gradientTransform="matrix(.375 0 0 .375 298 16)" />
+       gradientTransform="matrix(1,0,0,1,298,16)" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
        x2="0"
-       y2="90"
-       y1="230"
+       y2="22.5"
+       y1="57.5"
        xlink:href="#Q"
        id="S"
-       gradientTransform="matrix(.25 0 0 .25 299.99999 131.99999)" />
+       gradientTransform="matrix(1,0,0,1,299.99999,131.99999)" />
     <clipPath
        id="clipPath239">
       <rect
@@ -887,19 +887,19 @@
        xlink:href="#W"
        id="linearGradient3312"
        gradientUnits="userSpaceOnUse"
-       y1="46.752"
+       y1="9.810392"
        x2="0"
-       y2="-24.433"
-       gradientTransform="matrix(0.23630483,0,0,0.18633729,-11.350379,4.8349746)" />
+       y2="-5.126996"
+       gradientTransform="matrix(1.126125,0,0,0.888001,-11.350379,4.834975)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#W-1"
        id="linearGradient3312-3"
        gradientUnits="userSpaceOnUse"
-       y1="46.751999"
+       y1="9.810392"
        x2="0"
-       y2="-24.433001"
-       gradientTransform="matrix(0.23630483,0,0,0.18633729,-11.350379,4.8349746)" />
+       y2="-5.126996"
+       gradientTransform="matrix(1.126125,0,0,0.888001,-11.350379,4.834975)" />
     <linearGradient
        id="W-1">
       <stop
@@ -933,11 +933,11 @@
        xlink:href="#linearGradient3944"
        id="linearGradient3992"
        gradientUnits="userSpaceOnUse"
-       x1="-25.499998"
-       y1="15"
-       x2="-25.499998"
-       y2="11"
-       gradientTransform="matrix(15.333333,0,0,11.5,414.99998,-125.5)" />
+       x1="-338.615903"
+       y1="199.185841"
+       x2="-338.615903"
+       y2="146.069617"
+       gradientTransform="matrix(1.154701,0,0,0.866025,414.99998,-125.5)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3944"
@@ -970,11 +970,11 @@
        xlink:href="#linearGradient3944"
        id="linearGradient4015"
        gradientUnits="userSpaceOnUse"
-       x1="-25.499998"
-       y1="15"
-       x2="-25.499998"
-       y2="11"
-       gradientTransform="matrix(15.333333,0,0,11.5,414.99998,-125.5)" />
+       x1="-338.615903"
+       y1="199.185841"
+       x2="-338.615903"
+       y2="146.069617"
+       gradientTransform="matrix(1.154701,0,0,0.866025,414.99998,-125.5)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3944"
@@ -989,11 +989,11 @@
        xlink:href="#linearGradient3944"
        id="linearGradient4024"
        gradientUnits="userSpaceOnUse"
-       x1="-25.499998"
-       y1="15"
-       x2="-25.499998"
-       y2="11"
-       gradientTransform="matrix(15.333333,0,0,11.5,414.99998,-125.5)" />
+       x1="-338.615903"
+       y1="199.185841"
+       x2="-338.615903"
+       y2="146.069617"
+       gradientTransform="matrix(1.154701,0,0,0.866025,414.99998,-125.5)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3944"
@@ -1053,11 +1053,11 @@
          id="stop3802" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(0.28222223,0,0,0.28222223,14.970031,0.21737973)"
-       y2="1"
-       x2="24"
-       y1="47"
-       x1="24"
+       gradientTransform="matrix(1,0,0,1,14.970031,0.21738)"
+       y2="0.282222"
+       x2="6.773334"
+       y1="13.264445"
+       x1="6.773334"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3244"
        xlink:href="#linearGradient3798"

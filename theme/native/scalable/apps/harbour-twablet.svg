@@ -11,7 +11,7 @@
   <clipPath>
    <path d="m 0.07 0.035 l 0 15.04 c 7.598 2.047 16.05 3.184 24.984 3.184 c 8.949 0 17.441 -1.164 25.05 -3.215 l 0 -15 m -50.03 0"/>
   </clipPath>
-  <linearGradient id="linearGradient3139" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.363154,0,0,0.360673,-46.756204,-8.052959)" y1="105.44" x2="0" y2="132.01">
+  <linearGradient id="linearGradient3139" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.003434,0,0,0.996578,-46.756204,-8.052959)" y1="38.159935" x2="0" y2="47.77592">
    <stop style="stop-color:#ecd400;stop-opacity:1"/>
    <stop offset="1" style="stop-color:#fbe64c;stop-opacity:1"/>
   </linearGradient>
