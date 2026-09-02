@@ -4,3 +4,8 @@ X-Nemo-Application-Type=silica-qt5
 Icon=harbour-themepack-numix-circle
 Exec=invoker --type=generic -s /usr/bin/harbour-themepack-numix-circle
 Name=Numix Circle
+
+[X-Sailjail]
+OrganizationName=org.themepack.numix-circle
+ApplicationName=harbour-themepack-numix-circle
+Sandboxing=Disabled
